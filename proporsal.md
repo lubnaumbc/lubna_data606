@@ -17,10 +17,10 @@ regularly. The dataset available is not curated for a specific Machine Learning 
 
 ## Dataset Source:
 
-•	I looked at crime data from the “Chicago Crime dataset report” which contains information on crimes committed in the city of Chicago.
-
 •	The dataset has been downloaded from the state government website
 	https://data.cityofchicago.org/Public-Safety/Crimes-One-year-prior-to-present/x2n5-8w5q/data
+	
+•	I looked at crime data from the “Chicago Crime dataset report” which contains information on crimes committed in the city of Chicago.
 	
 •	Dataset has 213,627records and 17 columns
 
