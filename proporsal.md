@@ -4,6 +4,7 @@
 
 I have chosen this topic because it requires working on a real-world dataset that is updated
 regularly. The dataset available is not curated for a specific Machine Learning task and is sufficient to play with.
+
 •	Chicago is one of the largest cities in the USA and has the highest crime rate increasing every year in every category of crime.
 
 •	The purpose of using the ML technique is to find the safest places for new people who want to move to Chicago.
