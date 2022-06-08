@@ -7,7 +7,7 @@ regularly. The dataset available is not curated for a specific Machine Learning 
 
 •	Chicago is one of the largest cities in the USA and has the highest crime rate increasing every year in every category of crime.
 
-•	The purpose of using the ML technique is to find the safest places for new people who want to move to Chicago.
+•       The goal of applying machine learning is to provide the Chicago Police Department with insights that will assist them prevent future crimes in that area.
 
 ## Questions I would like to address:
 
@@ -29,10 +29,10 @@ regularly. The dataset available is not curated for a specific Machine Learning 
 •	I would like to drop not so useful columns while performing exploratory data analysis and consider the subset of attributes useful for my analysis. As of now, I observe the location column to be a pair of latitude and longitude, so it can be dropped.
 ## Unit of Analysis:
 
-My unit of analysis would be the entire city of Chicago and there would be 213627 observations.
+My unit of analysis would be the crimes that took place in the city of chicago and each crime case reported would be an observation.
 ## Target variables and features:
 
-For my analysis, I would like to consider the ARREST column as my target variable.
+For my analysis, I would like to consider the ARREST column as my target variable.'ARREST' is a categorical column.It has two different categories Y if the criminal was arrested and N if the criminal was not arrested.
 ## Models to be used:
 
 I would like to use three machine learning models: logistic regression, decision tree classifier, and random forest classifier.
