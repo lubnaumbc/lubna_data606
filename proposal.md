@@ -7,8 +7,7 @@ regularly. The dataset available is not curated for a specific Machine Learning 
 
 •	Chicago is one of the largest cities in the USA and has the highest crime rate increasing every year in every category of crime.
 
-•	The purpose of using the ML technique is to find the safest places for new people who want to move to Chicago.
-
+•	The purpose of using the ML technique is to help the city of chicago police department to tackle eith the problem of preventing crime.
 ## Questions I would like to address:
 
 •	I would like to predict the likelihood of an arrest occurring in the city of Chicago.
@@ -24,15 +23,15 @@ regularly. The dataset available is not curated for a specific Machine Learning 
 	
 •	Dataset has 213,627records and 17 columns
 
-•	It has attributes like'CASE#', 'DATE  OF OCCURRENCE', 'BLOCK', ' IUCR', 'PrimaryDescription'     ' SECONDARY_DESCRIPTION', ' LOCATION_DESCRIPTION', 'ARREST', 'DOMESTIC',  'BEAT', 'WARD', 'FBI CD', 'X COORDINATE', 'Y COORDINATE', 'LATITUDE',  'LONGITUDE', 'LOCATION'
+•	It has attributes like'CASE#', 'DATE  OF OCCURRENCE', 'BLOCK', ' IUCR', 'PrimaryDescription'     ' SECONDARY_DESCRIPTION', ' LOCATION_DESCRIPTION', 'ARREST',  'DOMESTIC',  'BEAT', 'WARD', 'FBI CD', 'X COORDINATE', 'Y COORDINATE', 'LATITUDE',  'LONGITUDE', 'LOCATION'
 
 •	I would like to drop not so useful columns while performing exploratory data analysis and consider the subset of attributes useful for my analysis. As of now, I observe the location column to be a pair of latitude and longitude, so it can be dropped.
 ## Unit of Analysis:
 
-My unit of analysis would be the entire city of Chicago and there would be 213627 observations.
+My unit of analysis would be the crimes that took place in the city of Chicago and each incident/crime that was reported would be an observation.
 ## Target variables and features:
 
-For my analysis, I would like to consider the ARREST column as my target variable.
+For my analysis, I would like to consider the ARREST column as my target variable.'ARREST' is a categorical column.It has two different values 'Y' if the criminial was arrested and 'N' if the criminal was not arrested
 ## Models to be used:
 
 I would like to use three machine learning models: logistic regression, decision tree classifier, and random forest classifier.
