@@ -67,9 +67,10 @@ I would like to use four machine learning models: logistic regression, decision 
 
 Our dataset is unbalanced because most of the providers are not prospective fraudsters. Also, while flagging a supplier as a possible fraudster, we must be extremely cautious. The following measures can be used to assess model performance in this scenario:
 
-•	Binary confusion matrix
 
-•	Precision, recall, F1 score
+•	Precision
+• Recall
+• F1 score
 
 ## Outcomes:
 
