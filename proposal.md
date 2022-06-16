@@ -11,9 +11,13 @@
 
 ## Questions I would like to address:
 
+•	 Total money lost in fraud for both inpatient and outpatieint data
+
 •	Using the claims filed by them, I would like to predict the likely fraudulent providers in healthcare 
 
 •	I would like to find the key aspects that can assist in spotting possibly fraudulent suppliers' behavior
+ 
+
 
 ## Dataset Source:
 Dataset downloaded from Kaggle. These files contain valid information about insurance scheme beneficiaries, patients who were admitted to the hospital and underwent some medical procedure and diagnosis (inpatient data), patients who visited the hospital for some procedure or diagnosis or both but were not admitted (outpatient data), and medical service provider IDs that have been tagged as potential fraud or not.
