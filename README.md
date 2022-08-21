@@ -3,15 +3,17 @@
 
 This project is dedicated to doing some cool data analysis, visualization,eda and modelling on the already curated dataset.
 ## Repo Contents
-  <li><b>Data:</b>This folder  contains a data set from the Chicago Police department for crimes committed from Nov 7 2020 to Nov 6 2021                      https://github.com/lubnaumbc/DATA602/tree/main/Project/Data</li>
-  <li><b>Visualization:</b>Data visualizations were created through the super awesome Python libraries matplotlib.
-   I have performed many visualizations and saved the jupyter notebook
+  <li><b>Data:</b>This folder  contains a data set from the kaggle data source
+  https://github.com/lubnaumbc/lubna_data606/tree/main/datasets
+  </li>
+  <li><b>Data Preprocessing:https://github.com/lubnaumbc/lubna_data606/blob/main/Data_Preprocessing.ipynb</b></li>
+  <li><b>Visualization:</b>https://github.com/lubnaumbc/lubna_data606/blob/main/Exploratory%20Data%20Analysis.ipynb
 </li>
   <li><b>Main Code Notebooks:</b>
-https://github.com/lubnaumbc/DATA602/blob/main/Project/Lubna_Shereen_Data_602_Final_Project_Lubna_.ipynb
-
+https://github.com/lubnaumbc/lubna_data606/blob/main/Machine_learning_models.ipynb
   <li><b>Presentation:</b>
 (https://github.com/lubnaumbc/lubna_data606/blob/main/Final%20Project%20Presentation.pptx)</li>
+<li><b>Streamlit Web Application:https://github.com/lubnaumbc/lubna_data606/blob/main/streamlit_application.py</b>
   <li><b>Youtube Video:https://www.youtube.com/watch?v=8m5B0tmLSTU</b>
 </li>
 
