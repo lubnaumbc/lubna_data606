@@ -6,18 +6,17 @@ This project is dedicated to doing some cool data analysis, visualization,eda an
   <li><b>Data:</b>This folder  contains a data set from the Chicago Police department for crimes committed from Nov 7 2020 to Nov 6 2021                      https://github.com/lubnaumbc/DATA602/tree/main/Project/Data</li>
   <li><b>Visualization:</b>Data visualizations were created through the super awesome Python libraries matplotlib.
    I have performed many visualizations and saved the jupyter notebook
-https://github.com/lubnaumbc/DATA602/blob/main/Project/Final_Project_Visualizations.ipynb
-https://github.com/lubnaumbc/DATA602/blob/main/Project/Map_Visualizations_.ipynb</li>
+</li>
   <li><b>Main Code Notebooks:</b>
 https://github.com/lubnaumbc/DATA602/blob/main/Project/Lubna_Shereen_Data_602_Final_Project_Lubna_.ipynb
-  
-  In the below notebook cyclic representation of day,week and hour was used
-https://github.com/lubnaumbc/DATA602/blob/main/Project/Extra__Lubna_Shereen_Data_602_Final_Project_Lubna_.ipynb</li>
+
   <li><b>Presentation:</b>
-https://github.com/lubnaumbc/DATA602/blob/main/Project/602%20ppt%20-%20Copy.pptx</li>
-  <li><b>Youtube Video:</b>
-https://github.com/lubnaumbc/DATA602/blob/main/Project/602%20ppt%20-%20Copy.pptx</li>
-<h1>Install</h1>
+(https://github.com/lubnaumbc/lubna_data606/blob/main/Final%20Project%20Presentation.pptx)</li>
+  <li><b>Youtube Video:https://www.youtube.com/watch?v=8m5B0tmLSTU</b>
+</li>
+
+## Install
+
 This project requires Python and the following Python libraries installed:
 
 <li>NumPy</li>
@@ -121,8 +120,3 @@ https://ieeexplore.ieee.org/abstract/document/8260744
 https://www.ripublication.com/ijaer18/ijaerv13n6_140.pdf
 5. https://www.fbi.gov/scams-and-safety/common-scams-and-crimes/health-care-fraud
 6. https://docs.streamlit.io/library/get-started/create-an-app
-
-
-## PROJECT PPT LINK : 
-
-## PRESENTATION RECORDING YOUTUBE LINK : https://www.youtube.com/watch?v=8m5B0tmLSTU
