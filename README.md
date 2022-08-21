@@ -103,7 +103,8 @@ I have used the following metrics for my work:
 3. PRECISION AND RECALL: Performance indicators for pattern recognition and classification in machine learning include precision and recall. While increasing recall will reduce the number of false negatives, increasing precision will reduce the number of false positives. Building a flawless machine learning model that produces more precise and accurate results requires understanding these ideas.
 4. ACCURACY: Its accuracy metric often describes the model's performance across all classes. When every class is equally important, it is useful. It is determined by dividing the total number of guesses by the number of correct predictions.
 ## MODEL RESULTS:
-  
+  ![Alt text](https://github.com/lubnaumbc/lubna_data606/blob/main/Images/model%20result1.png)
+  ![Alt text](https://github.com/lubnaumbc/lubna_data606/blob/main/Images/model%20results2.png)
 From all the used machined learning models, the extra tree performed better among all the models, with an f1_score of 83.82 percent.
 
 ## WEB APPLICATION:
