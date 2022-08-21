@@ -1,5 +1,5 @@
 # Health Care Provider Fraud Detection
-![Alt text](https://github.com/lubnaumbc/DATA602/blob/main/Project/image/chicagoskyline.PNG)
+![Alt text](https://github.com/lubnaumbc/lubna_data606/blob/main/Images/medical-fraud.png)
 
 This project is dedicated to doing some cool data analysis, visualization,eda and modelling on the already curated dataset.
 ## Repo Contents
