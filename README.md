@@ -103,13 +103,18 @@ I have used the following metrics for my work:
 3. PRECISION AND RECALL: Performance indicators for pattern recognition and classification in machine learning include precision and recall. While increasing recall will reduce the number of false negatives, increasing precision will reduce the number of false positives. Building a flawless machine learning model that produces more precise and accurate results requires understanding these ideas.
 4. ACCURACY: Its accuracy metric often describes the model's performance across all classes. When every class is equally important, it is useful. It is determined by dividing the total number of guesses by the number of correct predictions.
 ## MODEL RESULTS:
-  ![Alt text](https://github.com/lubnaumbc/lubna_data606/blob/main/Images/model%20result1.png)
-  ![Alt text](https://github.com/lubnaumbc/lubna_data606/blob/main/Images/model%20results2.png)
+
+ ![Alt text](https://github.com/lubnaumbc/lubna_data606/blob/main/Images/model%20results2.png)
+
+
 From all the used machined learning models, the extra tree performed better among all the models, with an f1_score of 83.82 percent.
 
 ## WEB APPLICATION:
 To make the customer aware of the fraudulent list, I have developed an application using StreamLit, which displays all the fraudulent upon search.
 StreamLit: Data scientists can easily create interactive dashboards and machine learning web apps using the free, open-source, all-Python Streamlit framework, which doesn't require any prior front-end web programming knowledge. If you are familiar with Python, you are ready to utilize StreamLit to create and share your web apps, so don't wait weeks to get started
+  
+![Alt text](https://github.com/lubnaumbc/lubna_data606/blob/main/Images/streamlit_app.png)
+  
 ## FUTURE WORK:
 I'll broaden my research and use deep learning to uncover fresh insights. I want to leverage dropouts and other activation methods, like Relu, to prevent overfitting. I have two choices for the top layer because this is a binary classification problem: sigmoid or softmax.
 ## REFERENCES:
